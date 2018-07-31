@@ -45,8 +45,6 @@ plugins:
   enabled: true
  eslint:
   enabled: true
- brakeman:
-  enabled: true
 exclude_patterns:
 - "config/"
 - "db/"
